@@ -1,0 +1,29 @@
+#contentt .inside {
+	padding:22px 20px 0 29px;
+	
+}
+#contentt .inner_copy, #contentt .inner_copy a {
+	border:0;
+	float:right;
+	background:#000;
+	color:#ff7b01;
+	width:100%;
+	line-height:10px;
+	font-size:10px;
+	margin:-50% 0 0 0;
+	padding:0;
+}
+
+section#contentt {
+	float:left;
+	width:990px;
+	margin-left: 0px;
+}
+
+.containerr {
+	margin:0 auto;
+	width:1000px;
+	overflow:hidden;
+	font-size:.875em;
+	padding-bottom:176px;
+}
